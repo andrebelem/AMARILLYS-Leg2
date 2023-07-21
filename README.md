@@ -1,6 +1,7 @@
 # AMARILLYS Leg2
  Repository of scripts and data of AMARILLYS Cruise Leg 2<br>
- ![[DOI](https://doi.org/10.5281/zenodo.8096696)](https://zenodo.org/badge/660245520.svg)<br>
+[![DOI](https://zenodo.org/badge/660245520.svg)](https://doi.org/10.5281/zenodo.8096696)<br>
+
  Author: [Andre Belem](mailto:andrebelem@id.uff.br)<br>
  
  ![logo](https://github.com/andrebelem/AMARILLYS-Leg2/blob/main/images/LogoAMARYLLIS-AMAGAS_v4_GiorgiaRicci-124x123.png)
